@@ -3,7 +3,7 @@
   "jobId": 123,
   "files": [
     {
-      "fileName": "index.resx",
+      "fileName": "new_index.resx",
       "wordCount": 500,
       "sha": "a4f308dcbcd673fd99aec0acb3228d0d4ce71cef"
     }
