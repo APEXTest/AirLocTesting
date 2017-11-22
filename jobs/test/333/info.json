@@ -6,6 +6,11 @@
       "fileName": "index.resx",
       "wordCount": 500,
       "sha": "a4f308dcbcd673fd99aec0acb3228d0d4ce71cef"
+    },
+     {
+      "fileName": "TestFile2.resx",
+      "wordCount": 500,
+      "sha": "a4f308dcbcd673fd99aec0acb3228d0d4ce71cyy"
     }
   ],
   "cultures": [
