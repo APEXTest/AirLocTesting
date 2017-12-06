@@ -11,21 +11,26 @@
       "fileName": "TestFile2.resx",
       "wordCount": 500,
       "sha": "a4f308dcbcd673fd99aec0acb3228d0d4ce71cyy"
+    },
+     {
+      "fileName": "testOnProd.resx",
+      "wordCount": 500,
+      "sha": "a4f308dcbcd673fd99aec0acb3228d0d4ce71cyy"
     }
   ],
   "cultures": [
     {
       "culture": "zh-cn",
-      "status": "handed-back",
-      "handBackETA": "2017-11-14T05:16",
+      "status": "",
+      "handBackETA": "",
       "handOffDate": "",
-      "handBackDate": "2017-11-13T07:14",
+      "handBackDate": "",
       "integrationDate": ""
     },
     {
       "culture": "es-es",
-      "status": "handed-off",
-      "handBackETA": "2017-11-14T05:16",
+      "status": "",
+      "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
       "integrationDate": ""
@@ -35,7 +40,7 @@
   "fileCount": 1,
   "latest": "d69ff3597aaea7307a83558ad58485cadc1525eb",
   "branch": "master",
-  "status": "handed-off",
+  "status": "",
   "statusComment": "",
   "handOffType": "changeset",
   "priority": 1,
