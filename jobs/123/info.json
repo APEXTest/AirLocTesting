@@ -5,14 +5,16 @@
     {
       "fileName": "new_index.resx",
       "wordCount": 500,
-      "sha": "a4f308dcbcd673fd99aec0acb3228d0d4ce71cef"
+      "sha": "a4f308dcbcd673fd99aec0acb3228d0d4ce71cef",
+      "slug": null,
+      "additionalCultures": null
     }
   ],
   "cultures": [
     {
       "culture": "zh-cn",
       "status": "handed-back",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T09:12",
       "handOffDate": "",
       "handBackDate": "",
       "integrationDate": ""
@@ -20,7 +22,7 @@
     {
       "culture": "es-es",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T09:12",
       "handOffDate": "",
       "handBackDate": "",
       "integrationDate": ""
@@ -37,5 +39,8 @@
   "localizationType": "standard",
   "workItems": "",
   "workItemNumber": null,
-  "submittedBy": null
+  "submittedBy": null,
+  "sourceType": null,
+  "dynamicContentSource": null,
+  "dynamicContentTenant": null
 }
