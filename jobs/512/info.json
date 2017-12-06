@@ -5,24 +5,30 @@
     {
       "fileName": "Pages/Pricing/Index.resx",
       "wordCount": 70,
-      "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78550"
+      "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78550",
+      "slug": null,
+      "additionalCultures": null
     },
     {
       "fileName": "Pages/Pricing/Test_job.md",
       "wordCount": 70,
-      "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78551"
+      "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78551",
+      "slug": null,
+      "additionalCultures": null
     },
     {
       "fileName": "Pages/Pricing/Images/Bmp.bmp",
       "wordCount": 70,
-      "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78552"
+      "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78552",
+      "slug": null,
+      "additionalCultures": null
     }
   ],
   "cultures": [
     {
       "culture": "zh-cn",
       "status": "handed-off",
-      "handBackETA": "2017-11-18T06:01",
+      "handBackETA": "2017-12-09T09:13",
       "handOffDate": "2017-03-31T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -39,5 +45,8 @@
   "localizationType": "standard",
   "workItems": "",
   "workItemNumber": null,
-  "submittedBy": null
+  "submittedBy": null,
+  "sourceType": null,
+  "dynamicContentSource": null,
+  "dynamicContentTenant": null
 }
