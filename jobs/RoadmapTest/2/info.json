@@ -1,0 +1,198 @@
+{
+  "schemaVersion": "3",
+  "jobId": 204,
+  "files": [
+    {
+      "fileName": "post\\azure-iot-hub-device-provisioning.resx",
+      "wordCount": 114,
+      "sha": "33166e5a91111141dc9097fbcf57f9b48fd82805673db0782b31336cde3f7aae",
+      "slug": "azure-iot-hub-device-provisioning",
+      "additionalCultures": null
+    }
+  ],
+  "cultures": [
+    {
+      "culture": "cs-cz",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "da-dk",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "de-de",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "es-es",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "fr-fr",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "hu-hu",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "it-it",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ja-jp",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ko-kr",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "nl-nl",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "pl-pl",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "pt-br",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "pt-pt",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ru-ru",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "sv-se",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "tr-tr",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "zh-cn",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "zh-tw",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-in",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-gb",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "nb-no",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "2017-12-05T23:20",
+      "handBackDate": "",
+      "integrationDate": ""
+    }
+  ],
+  "generated": "2017-12-05T23:20",
+  "fileCount": 1,
+  "latest": null,
+  "branch": "master",
+  "status": "handed-off",
+  "statusComment": "",
+  "handOffType": "IndividualContent",
+  "priority": 1,
+  "localizationType": "standard",
+  "workItems": "",
+  "workItemNumber": null,
+  "submittedBy": "Onyx Bridge",
+  "sourceType": "DynamicContent",
+  "dynamicContentSource": "Blog",
+  "dynamicContentTenant": "azureroadmap"
+}
