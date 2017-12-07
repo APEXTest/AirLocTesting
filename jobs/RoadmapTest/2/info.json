@@ -13,23 +13,23 @@
   "cultures": [
     {
       "culture": "cs-cz",
-      "status": "handed-off",
+      "status": "",
       "handBackETA": "",
-      "handOffDate": "2017-12-05T23:20",
+      "handOffDate": "",
       "handBackDate": "",
       "integrationDate": ""
     },
     {
       "culture": "es-es",
-      "status": "handed-off",
+      "status": "",
       "handBackETA": "",
-      "handOffDate": "2017-12-05T23:20",
+      "handOffDate": "",
       "handBackDate": "",
       "integrationDate": ""
     },
     {
       "culture": "fr-fr",
-      "status": "handed-off",
+      "status": "",
       "handBackETA": "",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
