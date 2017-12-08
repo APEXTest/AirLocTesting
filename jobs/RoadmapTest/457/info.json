@@ -6,13 +6,15 @@
       "fileName": "TestingFile.resx",
       "wordCount": 114,
       "sha": "33166e5a91111141dc9097fbcf57f9b48fd82805673db0782b31336cde3f7ayt",
+      "slug": null,
+      "additionalCultures": null
     }
   ],
   "cultures": [
     {
       "culture": "cs-cz",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -20,7 +22,7 @@
     {
       "culture": "da-dk",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -28,7 +30,7 @@
     {
       "culture": "de-de",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -36,7 +38,7 @@
     {
       "culture": "es-es",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -44,7 +46,7 @@
     {
       "culture": "fr-fr",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -52,7 +54,7 @@
     {
       "culture": "hu-hu",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -60,7 +62,7 @@
     {
       "culture": "it-it",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -68,7 +70,7 @@
     {
       "culture": "ja-jp",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -76,7 +78,7 @@
     {
       "culture": "ko-kr",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -84,7 +86,7 @@
     {
       "culture": "nl-nl",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -92,7 +94,7 @@
     {
       "culture": "pl-pl",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -100,7 +102,7 @@
     {
       "culture": "pt-br",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -108,7 +110,7 @@
     {
       "culture": "pt-pt",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -116,7 +118,7 @@
     {
       "culture": "ru-ru",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -124,7 +126,7 @@
     {
       "culture": "sv-se",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -132,7 +134,7 @@
     {
       "culture": "tr-tr",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -140,7 +142,7 @@
     {
       "culture": "zh-cn",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -148,7 +150,7 @@
     {
       "culture": "zh-tw",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -156,7 +158,7 @@
     {
       "culture": "en-in",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -164,7 +166,7 @@
     {
       "culture": "en-gb",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -172,7 +174,7 @@
     {
       "culture": "nb-no",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-12-09T08:27",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
