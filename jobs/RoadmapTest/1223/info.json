@@ -37,10 +37,10 @@
     },
     {
       "culture": "es-es",
-      "status": "handed-off",
+      "status": "handed-back",
       "handBackETA": "2017-12-09T03:26",
       "handOffDate": "2017-12-05T23:20",
-      "handBackDate": "",
+      "handBackDate": "2017-12-08T08:38",
       "integrationDate": ""
     }
   ],
