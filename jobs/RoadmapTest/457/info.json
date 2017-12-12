@@ -13,10 +13,10 @@
   "cultures": [
     {
       "culture": "cs-cz",
-      "status": "handed-off",
+      "status": "handed-back",
       "handBackETA": "2017-12-12T05:32",
       "handOffDate": "2017-12-05T23:20",
-      "handBackDate": "",
+      "handBackDate": "2017-12-12T04:05",
       "integrationDate": ""
     },
     {
@@ -37,10 +37,10 @@
     },
     {
       "culture": "es-es",
-      "status": "handed-off",
+      "status": "handed-back",
       "handBackETA": "2017-12-12T05:32",
       "handOffDate": "2017-12-05T23:20",
-      "handBackDate": "",
+      "handBackDate": "2017-12-12T04:05",
       "integrationDate": ""
     },
     {
@@ -133,18 +133,18 @@
     },
     {
       "culture": "tr-tr",
-      "status": "handed-off",
+      "status": "handed-back",
       "handBackETA": "2017-12-12T05:32",
       "handOffDate": "2017-12-05T23:20",
-      "handBackDate": "",
+      "handBackDate": "2017-12-12T04:05",
       "integrationDate": ""
     },
     {
       "culture": "zh-cn",
-      "status": "handed-off",
+      "status": "handed-back",
       "handBackETA": "2017-12-12T05:32",
       "handOffDate": "2017-12-05T23:20",
-      "handBackDate": "",
+      "handBackDate": "2017-12-12T04:05",
       "integrationDate": ""
     },
     {
