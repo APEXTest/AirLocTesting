@@ -3,7 +3,7 @@
   "jobId": 205,
   "files": [
     {
-      "fileName": "post\\azure-iot-hub-device-provisioning.resx",
+      "fileName": "post\\azure-iot-hub-device-provisioning2.resx",
       "wordCount": 114,
       "sha": "33166e5a91111141dc9097fbcf57f9b48fd82805673db0782b31336cde3f7aae",
       "slug": "azure-iot-hub-device-provisioning",
@@ -13,9 +13,9 @@
   "cultures": [
     {
       "culture": "cs-cz",
-      "status": "handed-off",
-      "handBackETA": "2017-12-16T06:11",
-      "handOffDate": "2017-12-05T23:20",
+      "status": "",
+      "handBackETA": "2018-02-16T09:35",
+      "handOffDate": "",
       "handBackDate": "",
       "integrationDate": ""
     },
