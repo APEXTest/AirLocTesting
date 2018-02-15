@@ -14,7 +14,7 @@
     {
       "culture": "cs-cz",
       "status": "handed-off",
-      "handBackETA": "2017-12-16T06:11",
+      "handBackETA": "",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -38,7 +38,7 @@
     {
       "culture": "es-es",
       "status": "handed-off",
-      "handBackETA": "2017-12-16T06:11",
+      "handBackETA": "",
       "handOffDate": "2017-12-05T23:20",
       "handBackDate": "",
       "integrationDate": ""
@@ -184,7 +184,7 @@
   "fileCount": 1,
   "latest": null,
   "branch": "master",
-  "status": "handed-off",
+  "status": "",
   "statusComment": "",
   "handOffType": "changeset",
   "priority": 1,
